@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add0a11f-b164-4e0c-a0ca-4060849fb2f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meloch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BARISTA.py" beforeDir="false" afterPath="$PROJECT_DIR$/BARISTA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,9 @@
     <option name="defaultAccountId" value="cd64982e-a0f5-409f-bbd9-5793dcc09626" />
   </component>
   <component name="ProjectId" id="1VhOLsDODMTxKt0awbUT32Q7PXo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -88,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1577701810441</updated>
     </task>
+    <task id="LOCAL-00001" summary="Тестируем">
+      <created>1581157516676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581157516676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -100,6 +109,23 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тестируем" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тестируем" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580411823302">
       <screen x="0" y="0" width="1366" height="728" />
@@ -109,10 +135,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#twinkle/0.0.1366.728@0.0.1366.728" timestamp="1577703940221" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1581157473855">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1581157516051">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581157473855" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581157516051" />
     <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1581156050299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -153,6 +179,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581157321449" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1581157518770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581157518770" />
     <state x="381" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1581155149495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
