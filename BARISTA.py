@@ -18,4 +18,4 @@ def choose_coffee(*preferences):
             ingredients[1] -= resources[i]['milk']
             ingredients[2] -= resources[i]['cream']
             return i
-    return 'К сожалению, не можем предложить Вам напиток'
+    return 'К сожалению, мы не можем предложить Вам напиток'
