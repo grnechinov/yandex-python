@@ -1,5 +1,5 @@
 n = int(input()) 
-for i in range(n):
+for sch in range(n):
     a = input()
     if a[:2] == '%%':
         print(a[2:])

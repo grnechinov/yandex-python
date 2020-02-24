@@ -2,13 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add0a11f-b164-4e0c-a0ca-4060849fb2f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/number_to_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/privet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seeking_the_sublime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/defractalize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do_bet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electr_parrot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fractal_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/from_string_to_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_transactions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lucky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_only_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statement-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transpose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verticalnoe_otrazhenie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wb_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1024_and_all_16102019.py" beforeDir="false" afterPath="$PROJECT_DIR$/1024_and_all_16102019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bad_advice.py" beforeDir="false" afterPath="$PROJECT_DIR$/bad_advice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_for_summer_13112019.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_for_summer_13112019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cezar.py" beforeDir="false" afterPath="$PROJECT_DIR$/cezar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_mate.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_mate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chek.py" beforeDir="false" afterPath="$PROJECT_DIR$/chek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coin.py" beforeDir="false" afterPath="$PROJECT_DIR$/coin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draw/pole.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw/pole.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filtr.py" beforeDir="false" afterPath="$PROJECT_DIR$/filtr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/investitsii.py" beforeDir="false" afterPath="$PROJECT_DIR$/investitsii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sup.py" beforeDir="false" afterPath="$PROJECT_DIR$/sup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/surnames_13112019.py" beforeDir="false" afterPath="$PROJECT_DIR$/surnames_13112019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teacher_13112019.py" beforeDir="false" afterPath="$PROJECT_DIR$/teacher_13112019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/untitled-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/white_spisok.py" beforeDir="false" afterPath="$PROJECT_DIR$/white_spisok.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +63,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.seeking_the_sublime">
-    <configuration name="cezar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.get_transactions">
+    <configuration name="do_bet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cezar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do_bet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number_to_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_transactions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\gnemchinov\Desktop\GitHub\yandex-python\number_to_word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_transactions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lucky" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lucky.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="parol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print_only_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_only_new.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seeking_the_sublime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="search_card" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seeking_the_sublime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_card.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.seeking_the_sublime" />
-        <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.number_to_word" />
-        <item itemvalue="Python.parol" />
-        <item itemvalue="Python.cezar" />
+        <item itemvalue="Python.get_transactions" />
+        <item itemvalue="Python.lucky" />
+        <item itemvalue="Python.do_bet" />
+        <item itemvalue="Python.search_card" />
+        <item itemvalue="Python.print_only_new" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581185439872</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Новые задачи">
+      <created>1582232434333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582232434333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -221,8 +256,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Тестируем" />
-    <option name="LAST_COMMIT_MESSAGE" value="Тестируем" />
+    <MESSAGE value="Новые задачи" />
+    <option name="LAST_COMMIT_MESSAGE" value="Новые задачи" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580411823302">
@@ -237,54 +274,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="61" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1582222108487" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1581185439113">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1582232433477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581185439113" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582232433477" />
+    <state width="764" height="466" key="DebuggerActiveHint" timestamp="1582394671610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="764" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1582394671610" />
     <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1581156050299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="128" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581156050299" />
-    <state width="1345" height="77" key="GridCell.Tab.0.bottom" timestamp="1582232134375">
+    <state width="1345" height="236" key="GridCell.Tab.0.bottom" timestamp="1582534489247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="77" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582232134375" />
-    <state width="1345" height="77" key="GridCell.Tab.0.center" timestamp="1582232134375">
+    <state width="1345" height="236" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582534489247" />
+    <state width="1345" height="236" key="GridCell.Tab.0.center" timestamp="1582534489247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="77" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582232134375" />
-    <state width="1345" height="77" key="GridCell.Tab.0.left" timestamp="1582232134375">
+    <state width="1345" height="236" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582534489247" />
+    <state width="1345" height="236" key="GridCell.Tab.0.left" timestamp="1582534489247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="77" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582232134375" />
-    <state width="1345" height="77" key="GridCell.Tab.0.right" timestamp="1582232134375">
+    <state width="1345" height="236" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582534489247" />
+    <state width="1345" height="236" key="GridCell.Tab.0.right" timestamp="1582534489247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="77" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582232134375" />
-    <state width="1345" height="148" key="GridCell.Tab.1.bottom" timestamp="1582231287932">
+    <state width="1345" height="236" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582534489247" />
+    <state width="1345" height="236" key="GridCell.Tab.1.bottom" timestamp="1582534489248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="148" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582231287932" />
-    <state width="1345" height="148" key="GridCell.Tab.1.center" timestamp="1582231287932">
+    <state width="1345" height="236" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582534489248" />
+    <state width="1345" height="236" key="GridCell.Tab.1.center" timestamp="1582534489248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="148" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582231287932" />
-    <state width="1345" height="148" key="GridCell.Tab.1.left" timestamp="1582231287932">
+    <state width="1345" height="236" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582534489248" />
+    <state width="1345" height="236" key="GridCell.Tab.1.left" timestamp="1582534489248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="148" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582231287932" />
-    <state width="1345" height="148" key="GridCell.Tab.1.right" timestamp="1582231287932">
+    <state width="1345" height="236" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582534489248" />
+    <state width="1345" height="236" key="GridCell.Tab.1.right" timestamp="1582534489248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="148" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582231287932" />
+    <state width="1345" height="236" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582534489248" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1581354045593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581354045593" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1581353904188">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1582232436726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581353904188" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582232436726" />
     <state x="381" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1581155149495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -302,11 +343,59 @@
           <line>5</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/electr_parrot.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/electr_parrot.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/electr_parrot.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transpose.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/from_string_to_list.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/swap.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wb_tree.py</url>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_transactions.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="my_string.replace(&quot; &quot;, &quot;&quot;)" language="Python" />
+        <watch expression="transaction[0]" language="Python" />
+        <watch expression="transactions[pref + operation]" language="Python" />
+        <watch expression="operation.startswith(pref)" language="Python" />
       </configuration>
     </watches-manager>
   </component>

@@ -1,5 +1,5 @@
 n = int(input())
-for i in range(n):
+for sch in range(n):
     a = input()
-    v = int(input())
-    print(a, v)
+    sch = int(input())
+    print(a, sch)

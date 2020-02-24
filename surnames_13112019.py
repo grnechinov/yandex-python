@@ -1,7 +1,7 @@
 men_works = set()
 men = int(input())
 cout = 0
-for i in range(men):
+for sch in range(men):
     name = input()
     if name in men_works:
         cout += 1

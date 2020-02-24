@@ -1,10 +1,10 @@
 n = int(input())
 a = []
 c = []
-for i in range(n):
+for sch in range(n):
     a.append(input())
-v = int(input())
-for j in range(v):
+sch = int(input())
+for j in range(sch):
     c.append(input())
 for u in range(len(c)):
     if a in c:
