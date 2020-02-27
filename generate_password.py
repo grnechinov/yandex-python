@@ -8,6 +8,11 @@ def generate_password(m):
     list_of_string.sort()
     sp = random.sample(list_of_string, m)
     _string = ''.join(sp)
+
+    while _string.isalpha() or _string.isdigit() or _string.islower() or _string.isupper():
+        sp = random.sample(list_of_string, m)
+        _string = ''.join(sp)
+
     return _string
 
 
@@ -19,7 +24,3 @@ def main(n, m):
             password = generate_password(m)
         list_of_password.append(password)
     return list_of_password
-
-print("Случайный пароль из 7 символов:", generate_password(7))
-print("10 случайных паролей длиной 15 символов:")
-print(*main(10, 15), sep="\n")

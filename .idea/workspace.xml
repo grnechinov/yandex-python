@@ -2,40 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add0a11f-b164-4e0c-a0ca-4060849fb2f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/defractalize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do_bet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electr_parrot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fractal_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/from_string_to_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_transactions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lucky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_only_new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statement-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transpose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verticalnoe_otrazhenie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wb_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bracket_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parusnick.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1024_and_all_16102019.py" beforeDir="false" afterPath="$PROJECT_DIR$/1024_and_all_16102019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bad_advice.py" beforeDir="false" afterPath="$PROJECT_DIR$/bad_advice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_for_summer_13112019.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_for_summer_13112019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cezar.py" beforeDir="false" afterPath="$PROJECT_DIR$/cezar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/check_mate.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_mate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chek.py" beforeDir="false" afterPath="$PROJECT_DIR$/chek.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coin.py" beforeDir="false" afterPath="$PROJECT_DIR$/coin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw/pole.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw/pole.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filtr.py" beforeDir="false" afterPath="$PROJECT_DIR$/filtr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/investitsii.py" beforeDir="false" afterPath="$PROJECT_DIR$/investitsii.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sup.py" beforeDir="false" afterPath="$PROJECT_DIR$/sup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surnames_13112019.py" beforeDir="false" afterPath="$PROJECT_DIR$/surnames_13112019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teacher_13112019.py" beforeDir="false" afterPath="$PROJECT_DIR$/teacher_13112019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/untitled-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/white_spisok.py" beforeDir="false" afterPath="$PROJECT_DIR$/white_spisok.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parol.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_password.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +43,8 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.get_transactions">
-    <configuration name="do_bet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.date">
+    <configuration name="bracket_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +56,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do_bet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bracket_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/date.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_password.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,76 +149,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lucky" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lucky.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="print_only_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_only_new.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="search_card" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_card.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.date" />
+        <item itemvalue="Python.generate_password" />
+        <item itemvalue="Python.bracket_check" />
+        <item itemvalue="Python.check" />
         <item itemvalue="Python.get_transactions" />
-        <item itemvalue="Python.lucky" />
-        <item itemvalue="Python.do_bet" />
-        <item itemvalue="Python.search_card" />
-        <item itemvalue="Python.print_only_new" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582232434333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Новые задачи">
+      <created>1582534668605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582534668606</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -274,10 +255,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="61" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1582222108487" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1582232433477">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1582534667675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582232433477" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582534667675" />
     <state width="764" height="466" key="DebuggerActiveHint" timestamp="1582394671610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -286,50 +267,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="128" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581156050299" />
-    <state width="1345" height="236" key="GridCell.Tab.0.bottom" timestamp="1582534489247">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1582825006700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582534489247" />
-    <state width="1345" height="236" key="GridCell.Tab.0.center" timestamp="1582534489247">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582825006700" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1582825006700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582534489247" />
-    <state width="1345" height="236" key="GridCell.Tab.0.left" timestamp="1582534489247">
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582825006700" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1582825006700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582534489247" />
-    <state width="1345" height="236" key="GridCell.Tab.0.right" timestamp="1582534489247">
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582825006700" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1582825006700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582534489247" />
-    <state width="1345" height="236" key="GridCell.Tab.1.bottom" timestamp="1582534489248">
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582825006700" />
+    <state width="1345" height="236" key="GridCell.Tab.1.bottom" timestamp="1582659521397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582534489248" />
-    <state width="1345" height="236" key="GridCell.Tab.1.center" timestamp="1582534489248">
+    <state width="1345" height="236" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582659521397" />
+    <state width="1345" height="236" key="GridCell.Tab.1.center" timestamp="1582659521397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582534489248" />
-    <state width="1345" height="236" key="GridCell.Tab.1.left" timestamp="1582534489248">
+    <state width="1345" height="236" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582659521397" />
+    <state width="1345" height="236" key="GridCell.Tab.1.left" timestamp="1582659521397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582534489248" />
-    <state width="1345" height="236" key="GridCell.Tab.1.right" timestamp="1582534489248">
+    <state width="1345" height="236" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582659521397" />
+    <state width="1345" height="236" key="GridCell.Tab.1.right" timestamp="1582659521397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="236" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582534489248" />
+    <state width="1345" height="236" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582659521397" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1581354045593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581354045593" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1582232436726">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1582534670927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582232436726" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582534670927" />
     <state x="381" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1581155149495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="381" y="183" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581155149495" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582657620745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582657620745" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -337,11 +322,6 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/cezar.py</url>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/parol.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/electr_parrot.py</url>
@@ -382,6 +362,11 @@
           <line>13</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generate_password.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -393,9 +378,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="transaction[0]" language="Python" />
-        <watch expression="transactions[pref + operation]" language="Python" />
-        <watch expression="operation.startswith(pref)" language="Python" />
+        <watch expression="&quot;kkr&quot;.isalpha()" language="Python" />
       </configuration>
     </watches-manager>
   </component>
